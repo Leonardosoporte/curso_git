@@ -2,4 +2,4 @@ Hola, estoy aprendiendo Git.
 Estoy aprendiendo control de versiones.
 Tercera linea agregada ne el nuevo equipo.
 Esta es la cuarta línea que agrego a mi archivo local
-
+Esta es la quinta línea agregada directamente en GitHub.
